@@ -1,0 +1,23 @@
+/* .footer{
+  position:absolute;
+  bottom: 0;
+  width: 1400px;
+  height: 15px;
+  background-color:rgb(226, 43, 119) ;
+  text-align:center;
+  color:white;
+
+}*/
+.bgimg{
+   
+  background-color: rgb(221, 219, 75);
+  opacity: 2.8;
+  background-size: cover;
+  height: auto;
+}
+
+img{
+  margin:0;
+  width:1400px;
+  height:540px;
+}
